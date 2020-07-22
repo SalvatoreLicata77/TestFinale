@@ -18,8 +18,8 @@ public class SalaCinematografica {
 
 	}
 
-	private void entrataCinema(String id, String firstName, String lastName, String birthDate, int age, int seat,
-	int price) {
+	private void entrataCinema(String id, String nome, String cognome, String dataDiNascita, int eta, int numeroPosto,
+	int prezzo) {
 
 	
 	}
